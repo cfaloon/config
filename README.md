@@ -1,1 +1,7 @@
-# config
+config
+===
+
+contents
+---
+
+### zshrc
